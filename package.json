@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "steem": "^0.7.11"
+  }
+}
