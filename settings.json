@@ -1,0 +1,15 @@
+[
+    {
+      "account": "ccscurator",
+      "key": "POSTING_KEY",
+      "nodes": [
+        "https://api.campingclub.me/",
+        "https://api.moecki.online/",
+        "https://api.pennsif.net/"
+      ],
+      "discord_webhook": "https://discord.com/api/webhooks/DEIN_WEBHOOK_LINK"
+
+    }
+]
+  
+  
